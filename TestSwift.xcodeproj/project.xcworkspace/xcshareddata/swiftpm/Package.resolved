@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MyLibrary",
+        "repositoryURL": "https://github.com/gauravmb/SPMTestLibrary.git",
+        "state": {
+          "branch": null,
+          "revision": "c3f9a8de443a1c61596c5c364ce5b43f618e91f1",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
